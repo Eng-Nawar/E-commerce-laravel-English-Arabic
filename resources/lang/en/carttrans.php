@@ -1,0 +1,38 @@
+<?php
+
+return [
+
+  'PRODUCT' => 'Product',
+  'NAME' => 'Name',
+  'UNITPRICE' => 'Unit Price',
+  'QUANTITY' => 'Quantity',
+  'TOTAL' => 'Total',
+  'COMMENT' => 'Comment',
+  'Action' => 'Action',
+  'Update' => 'Update',
+  'noproducta' => 'There are no products in your cart.',
+  'continue' => 'Continue shopping',
+  'CartSubtotal' => 'Cart Subtotal',
+  'YouPay' => 'You Pay',
+  'Checkout' => 'Checkout',
+  'Free' =>'Free shiping',
+  'Ordersover' => 'Orders over 5000',
+  'FreeReturn' => 'Free Return',
+  'returns' => 'Within 3 days returns',
+  'SucurePayment' => 'Sucure Payment',
+  '100securepayment' => '100% secure payment',
+  'Bestprice' => 'Best Price',
+  'Guaranteedprice' => 'Guaranteed price',
+  'MakeYourCheckout' => 'Make Your Checkout Here',
+  'FirstName' => 'First Name',
+  'LastName' => 'Last Name',
+  'PhoneNumber' => 'Mobile No.',
+  'AddressLine' => 'Address Line',
+  'Carttotal' => 'Cart Total',
+  'CartSubtotal' => 'Cart Subtotal',
+  'YouSave' => 'You Save',
+  'Total' => 'Total',
+  'Cashondelivery' => 'Cash on delivery',
+  'proceedtocheckout' => 'proceed to checkout',
+  'S.P' => 'S.P'
+];
